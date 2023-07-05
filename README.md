@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlwcTFneWV1N2prN3Nvd2Y0MTNzeTh0MWw5bnQ1YWQwempnaHp5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Yony Nguyen</h1>
 <h3 align="center">A passionate back-end developer from Vietnam. My ambition become a full-stack developer.</h3>
