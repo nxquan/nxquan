@@ -4,13 +4,9 @@
 width="400"
 src="https://singularityhub.com/wp-content/uploads/2019/02/learning-while-sleeping-neuroscience-shutterstock-686222875-1068x601.png" />
 
-- 🌱 I’m currently learning **knowledge about back-end dev**
-
-- 💬 Ask me about **nodejs, reactjs. I am willing to answer any question if I can**
-
-- 📫 How to reach me **quananhb2410@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
+- 🌱 I’m now in the process of becoming a Software Developer, not a Student, not a Coder. In 3-5 years, in a new role, a System Developer.
+  
+- ⚡ Oh, forgot! And now I have worked as a coolie for my company. Just a kidding.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
